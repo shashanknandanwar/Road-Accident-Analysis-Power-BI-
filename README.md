@@ -1,5 +1,4 @@
-![dashboard](https://github.com/shashanknandanwar/Road-Accident-Analysis-Power-BI-/assets/117344286/6d7456b7-6124-4900-aeb8-ea782e425a4d)
-
+![dashboard](https://github.com/shashanknandanwar/Road-Accident-Analysis-Power-BI-/assets/117344286/a210c78a-3071-407e-9dd5-24496cc0ce71)
 
 -> This project is aimed at developing a Power BI Dashboard for generating insights about road accident data in the United Kingdom.
 
